@@ -1,0 +1,9 @@
+2023-04-03 01:06:36.165478 - Initialized conversion of CBT549
+2023-04-03 01:06:36.207602 - Received CBT.V504.FILE549.PDS from FILE549.XMI 
+2023-04-03 01:06:36.210232 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:06:36.211410 - Found $$README.txt (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/$$README
+2023-04-03 01:06:36.212752 - Found @FILE549.txt (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/@FILE549
+2023-04-03 01:06:36.213794 - Found UNITNAM$.jcl (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/UNITNAM$
+2023-04-03 01:06:36.215056 - Found UNITNAME.txt (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/UNITNAME
+2023-04-03 01:06:36.216097 - Found UNITS.rexx (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/UNITS
+2023-04-03 01:06:36.217366 - Found XUNITS.txt (text/plain) in CBT.V504.FILE549.PDS, moved to PDS/XUNITS
